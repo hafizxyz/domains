@@ -1,0 +1,17 @@
+{
+    "owner": {
+        "username": "hafizxyz",
+        "email": "hafizxyzzzz@gmail.com"
+    },
+    "record": {
+        "CNAME": "domain-xzqe.onrender.com"
+    },
+    "nested": [
+        {
+            "name": "_discord",
+            "record": {
+                "TXT": "dh=5b0cb501bda9043e2c2de8b1ebc2df534dc23fd5"
+            }
+        }
+    ]
+}
